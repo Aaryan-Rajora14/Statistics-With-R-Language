@@ -1,4 +1,0 @@
-The projects are designed with clear documentation, reproducible code, and 
-insightful interpretations, making them accessible to statisticians, data 
-enthusiasts, and researchers alike. Dive in to explore the fascinating world 
-of data-driven decision-making with R!
