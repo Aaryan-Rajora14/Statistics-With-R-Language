@@ -4,3 +4,7 @@ This repository showcases a collection of projects leveraging the power of R for
 
 
 # Best Time Learning Statistics
+
+Sometimes I forgot about this Repository. 
+It's been a long time i didn't used R for anything else.
+Let's see if there's any circumstances of me using R in future.
